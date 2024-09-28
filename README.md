@@ -1,4 +1,4 @@
-![logo](https://github.com/udbh4v/udbh4v/blob/main/nasa_earth_grid.jpg)
+![logo](https://github.com/udbh4v/udbh4v/blob/main/webb1%20edit.jpg)
 <h1 align="center">Hi 👋, I'm Udbhav Sharma</h1>
 - 👨‍💻 All of my projects are available at [https://linktr.ee/udbh4v](https://linktr.ee/udbh4v)
 
