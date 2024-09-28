@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Udbhav Sharma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udbh4v&label=Profile%20views&color=0e75b6&style=flat" alt="udbh4v" /> </p>
 
-- 🔭 I’m currently working on **Text to Speech Bot**
-
-- 🌱 I’m currently learning **Devops**
-
-- 👯 I’m looking to collaborate on **Anything Interesting**
-
 - 🤝 I’m looking for help with **AI-ML-Automation**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/udbh4v](https://linktr.ee/udbh4v)
@@ -16,8 +10,6 @@
 - 📫 How to reach me **ussa.lonee@gmail.com**
 
 - 📄 Know about my experiences [Alpha@123](Alpha@123)
-
-- ⚡ Fun fact **i am very happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
