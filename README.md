@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Silicon Architecture & development**
 
-- 📫 How to reach me **ussa.lonee@gmail.com**
+- 📫 How to reach me **udbh4v@gmail.com**
 
 - 📄 Know about my experiences [Alpha@123](Alpha@123)
 
